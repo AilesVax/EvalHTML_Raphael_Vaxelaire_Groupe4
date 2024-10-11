@@ -1,0 +1,45 @@
+
+body{
+    
+     margin:0; padding: 0;
+}
+nav li{
+    list-style-type: none;
+    display: inline;
+    
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding-right:50px ;
+    font-size: 25px;
+    
+}
+nav{
+    display: flex;
+    justify-content:space-between ;
+    
+}
+nav ul{
+    margin-right: 60px;
+}
+#barre{
+    display: flex;
+    align-items: center;
+}
+        
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 5% ;
+    padding-bottom: 5%;
+    color: aliceblue;
+    font-size: 50px;
+    
+}
+header {
+    background-image:url(4054f389469415940a77eb74d2012022bb22349f-1920x1080.jpg) ;
+    background-attachment: fixed;
+    
+   
+}
